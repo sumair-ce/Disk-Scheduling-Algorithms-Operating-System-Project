@@ -1,4 +1,4 @@
-# Disk-Scheduling-Algorithms-Operating-System-project-
+# Disk Scheduling Algorithms (Operating System Project)
 <!DOCTYPE html>
 <html lang="en">
 <head>
